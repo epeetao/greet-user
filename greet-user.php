@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Greet User
- * Author: Peter Suhm
+ * Author: Louis Liu
  * Version: 0.0.1
  */
 $checkForGreetingFilter = function() {
